@@ -144,7 +144,7 @@ export default function HeroSection() {
               <ArrowRight className="w-4 h-4" />
             </button>
             <a
-              href="#"
+              href="/SangHuynh_CV_FullstackIntern.pdf"
               download
               className="flex-1 sm:flex-initial inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-xl bg-white hover:bg-slate-50 text-slate-800 text-sm font-semibold transition-all border border-slate-200 hover:border-slate-300 hover:scale-[1.02] active:scale-[0.98] shadow-sm shadow-slate-100/50 cursor-pointer"
             >
