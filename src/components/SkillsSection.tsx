@@ -28,7 +28,7 @@ export default function SkillsSection() {
 
   const skillGroups = [
     {
-      title: "Ngôn Ngữ Lập Trình",
+      title: "Ngôn Ngữ & Frontend Core",
       icon: <Code2 className="w-5 h-5 text-indigo-600" />,
       skills: [
         { name: "JavaScript", detail: "Thành thạo ES6+, xử lý bất đồng bộ", icon: "JS" },
